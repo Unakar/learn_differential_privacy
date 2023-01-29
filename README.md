@@ -1,5 +1,5 @@
 # learn_differential_privacy
-Here are some notes taken by a sophmore student,mainly based on  Gautam Kamath's CS680 and Dwork's wonderful book.
+Here are some notes taken by a sophmore student,mainly based on  Gautam Kamath's CS680 and the book Programming Differnetial Privacy.
  
  Thanks a lot for ElegantLaTeX's support,https://github.com/ElegantLaTeX/. 
  
